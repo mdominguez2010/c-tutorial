@@ -9,7 +9,7 @@ int main() {
     //num = 8;
     printf("%d\n", NUM);
 
-    printf("Hello");
+    printf("Hello"); // constants as well
 
     return 0;
 }
