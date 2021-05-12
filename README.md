@@ -1,2 +1,2 @@
 # c-tutorial
-Person C tutorial from freecodecamp
+Personal C tutorial from freecodecamp
