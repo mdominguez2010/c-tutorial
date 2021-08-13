@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h> 
-#include <math.h> //must include to call math functions
 // compares one value to several specific values
 
 int main()
